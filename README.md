@@ -41,7 +41,7 @@ Initialisez votre projet comme un dépôt public sur GitHub.
 
 Nommez votre repo par: my-resume.
 
-Ajouter 'aymanebenhima' comme collaborateur sur le repo.
+Ajouter 'abdeladimabid' comme collaborateur sur le repo.
 
 Configurez votre dépôt pour publier votre code sur les pages GitHub ou Netlify.
 
