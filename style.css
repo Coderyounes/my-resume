@@ -78,6 +78,9 @@ img.avatar {
   color: #236FB2;
 }
 
+.image_heading {
+  display: none;
+}
 .links {
   display: flex;
   margin: 10px 0 20px 0;
